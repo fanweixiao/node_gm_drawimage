@@ -1,2 +1,2 @@
-# node_gm_drawimage
-gm.drawImage
+# gm.drawImage()
+`require('node_gm_drawimage').drawImage(src, logo).then(...)`;
