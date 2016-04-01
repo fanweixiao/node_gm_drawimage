@@ -1,0 +1,29 @@
+{
+  "name": "node_gm_drawimage",
+  "version": "1.0.0",
+  "description": "gm.drawImage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanweixiao/node_gm_drawimage.git"
+  },
+  "keywords": [
+    "gm",
+    "image",
+    "qrcode",
+    "draw"
+  ],
+  "author": "C.C. <fanweixiao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fanweixiao/node_gm_drawimage/issues"
+  },
+  "homepage": "https://github.com/fanweixiao/node_gm_drawimage#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "gm": "^1.21.1"
+  }
+}
